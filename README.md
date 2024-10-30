@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/omcarr?theme=wtf&font=Fira+Code&ext=heatmap" height="180"/>
+  <img src="Leetcode Stats](https://leetcard.jacoblin.cool/lapor?ext=contest" height="180"/>
   <img src="https://codeforces-readme-stats.vercel.app/api/card?username=omcarr&theme=vue&disable_animations=false&show_icons=true&force_username=true" height="180"/>
 </p>
 
