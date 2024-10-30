@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=omcarr&theme=gotham&show_icons=true" height="180"/>
-  <img src="!https://github-readme-stats.vercel.app/api/top-langs/?username=omcarr&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omcarr&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)" height="180"/>
 </p>
 
 <p align="center">
