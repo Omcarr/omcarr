@@ -1,3 +1,3 @@
-
-  <img src="https://github-readme-stats.vercel.app/api?username=omcarr&theme=gotham&show_icons=true" alt="omcarr's GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omcarr&theme=gotham" alt="Top Languages"/>
+![omcarr's GitHub stats](https://github-readme-stats.vercel.app/api?username=omcarr&theme=gotham&show_icons=true)
+<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omcarr&theme=gotham)
