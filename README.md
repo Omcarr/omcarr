@@ -8,9 +8,6 @@
   <img src="https://codeforces-readme-stats.vercel.app/api/card?username=omcarr&theme=vue&disable_animations=false&show_icons=true&force_username=true" height="180"/>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" alt="footergif"/>
-</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=omcarr&style=for-the-badge&color=343434"/>
