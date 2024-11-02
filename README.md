@@ -37,7 +37,7 @@
     </td>
   </tr>
   <tr>
-    <th>Database Systems</th>
+    <th>Database</th>
     <td>
       <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" style="margin-right: 10px;" width="40" height="40">
       <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" style="margin-right: 10px;" width="40" height="40">
