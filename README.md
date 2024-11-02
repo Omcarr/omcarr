@@ -76,3 +76,7 @@
     <img alt="Gmail" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" height="40" />
   </a>
 </p>
+
+<p align='center'>
+  <img src="https://komarev.com/ghpvc/?username=Omcarr&style=for-the-badge&color=343434"/>
+</p>
